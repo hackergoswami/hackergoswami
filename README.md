@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### i am ankur goswami
 ### i am hacker
-### you are looser
 <!--
 **hackergoswami/hackergoswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
